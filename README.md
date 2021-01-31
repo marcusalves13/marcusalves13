@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Marcus!
 
-<!--
-**marcusalves13/marcusalves13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+javascript
+const Marcus = {
+    code: ["Javascript",,"HTML","CSS"],
+    askMeAbout: ["web dev", "tech", "app dev", "music", "Pink floyd", "Angra"],
+    technologies: {
+        databases: ["MySql", "sqlite", "mongodb],
+};
 
-Here are some ideas to get you started:
+[![Marcus Vinicius Da Rocha Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcusalves13&show_icons=true&count_private=true)](https://github.com/marcusalves13)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+  
+<a href="https://www.linkedin.com/in/marcus-alves-050036205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@marcus-alves-blue?style=flat&logo=linkedin"></a>
+
+<a href="mailto:marcusv.alves076@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marcusv.alves076@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+
+
+⭐ From [@mrcusalves13](https://github.com/marcusalves13)
