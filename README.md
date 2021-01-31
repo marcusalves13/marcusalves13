@@ -5,7 +5,7 @@ const Marcus = {
     code: ["Javascript",,"HTML","CSS"],
     askMeAbout: ["web dev", "tech", "app dev", "music", "Pink floyd", "Angra"],
     technologies: {
-        databases: ["MySql", "sqlite", "mongodb],
+        databases: ["MySql"],
 };
 ```
 [![Marcus Vinicius Da Rocha Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcusalves13&show_icons=true&count_private=true)](https://github.com/marcusalves13)
@@ -22,4 +22,4 @@ const Marcus = {
 </p>
 
 
-⭐ From [@mrcusalves13](https://github.com/marcusalves13)
+⭐ From [@marcusalves13](https://github.com/marcusalves13)
