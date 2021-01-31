@@ -15,7 +15,7 @@ const Marcus = {
 
 <p align="center">
   
-<a href="https://www.linkedin.com/in/marcus-alves-050036205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@marcus-alves-050036205/-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/marcus-alves-050036205/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@marcus-alves-blue?style=flat&logo=linkedin"></a>
 
 <a href="mailto:marcusv.alves076@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-marcusv.alves076@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
