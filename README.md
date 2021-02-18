@@ -2,7 +2,7 @@
 
 ```javascript
 const Marcus = {
-    code: ["Javascript","HTML","CSS"],
+    code: ["Javascript","PHP","HTML","CSS"],
     askMeAbout: ["web dev", "tech", "app dev", "music", "Pink floyd", "Angra"],
     technologies: {
         databases: ["MySql"],
