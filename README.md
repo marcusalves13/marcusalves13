@@ -2,12 +2,11 @@
 
 ```javascript
 const Marcus = {
-    code: ["Javascript","HTML","CSS","ReactJS"],
-    askMeAbout: ["web dev", "tech", "app dev", "music", "Pink floyd", "Angra"],
+    code: ["Javascript","HTML","CSS",".NET","C#"],
+    askMeAbout: ["web dev", "tech", "app dev", "music""],
     technologies: {
-        databases: ["MySql"],
-    },
-
+        databases: ["MySql","PlSql"]
+    }
 };
 ```
 [![Marcus Vinicius Da Rocha Alves GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcusalves13&show_icons=true&count_private=true)](https://github.com/marcusalves13)
