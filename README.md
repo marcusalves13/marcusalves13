@@ -6,7 +6,7 @@
 
 ![Marcus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusalves13&show_icons=true&theme=transparent)
 
-[![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusalves13&show_icons=true&theme=transparent)]
+[![Marcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcusalves13&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## Tecnologias
 
