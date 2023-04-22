@@ -2,7 +2,7 @@
 
 ```javascript
 const Marcus = {
-    code: ["Javascript","HTML","CSS",".NET","C#"],
+    code: [".NET","C#","Javascript","HTML","CSS"],
     askMeAbout: ["web dev", "tech", "app dev", "music""],
     technologies: {
         databases: ["MySql","PlSql"]
